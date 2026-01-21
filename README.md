@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreekant910/PracticeCode/tree/master/0001-two-sum) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Shreekant910/PracticeCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shreekant910/PracticeCode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shreekant910/PracticeCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shreekant910/PracticeCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Shreekant910/PracticeCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shreekant910/PracticeCode/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Shreekant910/PracticeCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
