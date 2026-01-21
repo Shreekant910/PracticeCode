@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreekant910/PracticeCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shreekant910/PracticeCode/tree/master/0009-palindrome-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shreekant910/PracticeCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shreekant910/PracticeCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shreekant910/PracticeCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shreekant910/PracticeCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
