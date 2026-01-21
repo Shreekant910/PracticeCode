@@ -23,10 +23,8 @@ class Solution {
 
         while(f !=null){
             curr= curr.next;
-            
             f=f.next;
         }
-
         curr.next=curr.next.next;
     return head;
 
