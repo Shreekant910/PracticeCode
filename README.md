@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shreekant910/PracticeCode/tree/master/0009-palindrome-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Shreekant910/PracticeCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
